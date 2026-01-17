@@ -13,3 +13,22 @@ El proyecto sigue una arquitectura BI basada en buenas prácticas, donde los dat
 4. Data Warehouse (**Snowflake**)  
 5. Modelo dimensional (estrella)  
 6. Capa semántica y visualización (**Power BI**)
+
+## 🧱 Modelado de datos
+Se implementó una aproximación a modelo dimensional tipo estrella, con el objetivo de optimizar el análisis y la creación de métricas en Power BI.
+
+### Tabla de hechos
+- Contiene los registros principales de atenciones/casos.
+- Centraliza las métricas base utilizadas en el análisis.
+
+### Tablas de dimensiones
+- Dimensión geográfica (estado).
+- Catálogos auxiliares.
+- Dimensiones derivadas a partir de variables originalmente distribuidas en múltiples columnas (por ejemplo, comorbilidades).
+
+## 🔧 Transformaciones y decisiones técnicas
+Durante el desarrollo del proyecto se tomaron varias decisiones clave, entre ellas:
+- Normalización de métricas por cada 100,000 habitantes para permitir comparaciones justas entre entidades.
+- Unificación de variables de comorbilidades que originalmente se encontraban en columnas separadas.
+- Creación de métricas comparativas, como diferencias de promedios de días de atención.
+- Enfoque en métricas interpretables y accionables para la toma de decisiones.
