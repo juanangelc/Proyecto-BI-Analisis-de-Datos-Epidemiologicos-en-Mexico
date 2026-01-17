@@ -34,6 +34,7 @@ Durante el desarrollo del proyecto se tomaron varias decisiones clave, entre ell
 - Enfoque en métricas interpretables y accionables para la toma de decisiones.
 
 Dashboard completo disponible en Power BI
+
 ![Dashboard – Estados](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/estados.png?raw=true)
 ![Dashboard – Comorbilidades](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/letalidad.png?raw=true)
 
