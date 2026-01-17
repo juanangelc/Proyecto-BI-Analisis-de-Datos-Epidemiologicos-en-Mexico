@@ -4,7 +4,7 @@ El proyecto sigue una arquitectura BI basada en buenas prácticas, donde los dat
 
 ### Flujo general de datos
 
-![Arquitectura BI](docs/arquitectura_bi.png)
+![Arquitectura BI](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/arquitectura_bi.png?raw=true))
 
 **Flujo de trabajo:**
 1. Fuentes de datos públicas  
