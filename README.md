@@ -4,7 +4,7 @@ El proyecto sigue una arquitectura BI basada en buenas prácticas, donde los dat
 
 ### Flujo general de datos
 
-![Arquitectura BI](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/arquitectura_bi.png?raw=true))
+![Arquitectura BI](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/arquitectura_bi.png?raw=true)
 
 **Flujo de trabajo:**
 1. Fuentes de datos públicas  
@@ -32,3 +32,6 @@ Durante el desarrollo del proyecto se tomaron varias decisiones clave, entre ell
 - Unificación de variables de comorbilidades que originalmente se encontraban en columnas separadas.
 - Creación de métricas comparativas, como diferencias de promedios de días de atención.
 - Enfoque en métricas interpretables y accionables para la toma de decisiones.
+
+![Dashboard – Estados](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/estados.png?raw=true)
+![Dashboard – Comorbilidades](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/letalidad.png?raw=true)
