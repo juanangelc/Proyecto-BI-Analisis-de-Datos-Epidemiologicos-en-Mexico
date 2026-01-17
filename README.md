@@ -35,3 +35,8 @@ Durante el desarrollo del proyecto se tomaron varias decisiones clave, entre ell
 
 ![Dashboard – Estados](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/estados.png?raw=true)
 ![Dashboard – Comorbilidades](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/letalidad.png?raw=true)
+
+## 📌 Alcance y consideraciones
+Este repositorio documenta el enfoque arquitectónico y analítico del proyecto.  
+No se incluyen datos reales, credenciales ni configuraciones internas de plataformas empresariales.
+
