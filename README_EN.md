@@ -43,6 +43,7 @@ Several key technical decisions were made during the development of the project,
 ### Dashboard
 
 ![Power BI Dashboard](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/figures/EN_states.png?raw=true)
+![](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/figures/EN_comor.png?raw=true)
 
 The complete dashboard is available in Power BI.
 
