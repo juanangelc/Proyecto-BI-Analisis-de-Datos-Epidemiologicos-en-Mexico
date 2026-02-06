@@ -35,8 +35,8 @@ Durante el desarrollo del proyecto se tomaron varias decisiones clave, entre ell
 
 Dashboard completo disponible en Power BI
 
-![Dashboard – Estados](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/estados.png?raw=true)
-![Dashboard – Comorbilidades](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/letalidad.png?raw=true)
+![Dashboard – Estados](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/figures/estados%20(1).png?raw=true)
+![Dashboard – Comorbilidades](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/figures/letalidad%20(1).png?raw=true)
 
 ## 📌 Alcance y consideraciones
 Este repositorio documenta el enfoque arquitectónico y analítico del proyecto.  
