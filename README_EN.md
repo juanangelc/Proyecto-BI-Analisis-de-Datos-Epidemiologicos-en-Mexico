@@ -4,7 +4,8 @@ The project follows a BI architecture aligned with industry best practices, wher
 
 ### General Data Flow
 
-![Data Architecture Diagram](assets/architecture.png)
+![Data Architecture Diagram](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/figures/EN_schema.png?raw=true
+)
 
 **Workflow:**
 1. Public data sources  
@@ -41,7 +42,7 @@ Several key technical decisions were made during the development of the project,
 
 ### Dashboard
 
-![Power BI Dashboard](assets/dashboard.png)
+![Power BI Dashboard](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/figures/EN_states.png?raw=true)
 
 The complete dashboard is available in Power BI.
 
