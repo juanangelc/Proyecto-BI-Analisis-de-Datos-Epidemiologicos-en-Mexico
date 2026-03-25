@@ -33,7 +33,7 @@ Durante el desarrollo del proyecto se tomaron varias decisiones clave, entre ell
 - Creación de métricas comparativas, como diferencias de promedios de días de atención.
 - Enfoque en métricas interpretables y accionables para la toma de decisiones.
 
-![Dashboard – Estados](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/figures/estados%20(1).png?raw=true)
+![Dashboard – Estados](https://github.com/juanangelc/Proyecto-BI-Analisis-de-Datos-Epidemiologicos-en-Mexico/blob/main/figures/dashboard.jpg?raw=true)
 
 
 ## 📌 Alcance y consideraciones
